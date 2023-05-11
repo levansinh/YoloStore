@@ -1,0 +1,16 @@
+@import './_mixins.scss';
+@import './_variables.scss';
+@import './base.scss';
+
+@import './components/header';
+@import './components/footer';
+@import './components/productcart';
+@import './components/catalog';
+@import './components/custom-checkbox';
+@import './components/helmet';
+@import './components/product';
+@import './components/product-view-modal';
+@import './components/cart';
+
+
+@import './modules/Button.module.scss'
